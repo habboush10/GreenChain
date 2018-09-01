@@ -1,20 +1,23 @@
 # Project Name #
-s
+Car Lifecycle Chain (clc).
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Car Lifecycle Chain (clc).
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > describe what the car goes throw from manufacture to scrap.
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > this will be a blockchain application that will describe the car life-cycle from manufacture to scrap, including the major incidents like accidents, maintenance, etc.
 ## Problem ##
-  > Describe the problem your product solves.
+  > 
+1- it’s too time consuming to take the car to the mechanic to have it inspected before buying it.
+2- Sometime the data could be tampered with to benifit a certain party.
+
 ## Solution ##
-  > Describe how your product elegantly solves the problem. 
+  > First things first, having all the data about the car lifecycle in one blockchain, saves time and effort. Second things second, with blockchain being hard to modify, so you can make sure the data is correct and wasn’t modified. 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "Why go to the mechanic if you can see the car lifecycle from your home comfort"
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Just by having the chassis number, you can get all info about your car, or the car you want to buy.
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > " I almost fell in the trap of a buying a bad second-hand car, but going to CLC saved me from buying a car that’d spend more time in the garage than on the road".
