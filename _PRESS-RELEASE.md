@@ -7,8 +7,8 @@ Car Lifecycle Chain (clc).
 ## Summary ##
   > this will be a blockchain application that will describe the car life-cycle from manufacture to scrap, including the major incidents like accidents, maintenance, etc.
 ## Problem ##
-  > it’s too time consuming to take the car to the mechanic to have it inspected before buying it.
-  > Sometime the data could be tampered with to benifit a certain party.
+  * it’s too time consuming to take the car to the mechanic to have it inspected before buying it.
+  * Sometime the data could be tampered with to benifit a certain party.
 
 ## Solution ##
   > First things first, having all the data about the car lifecycle in one blockchain, saves time and effort. Second things second, with blockchain being hard to modify, so you can make sure the data is correct and wasn’t modified. 
